@@ -1,0 +1,32 @@
+body {
+    background-color: #779ecb;
+}
+h2 {
+    text-decoration: underline;
+    color: #BF40BF;
+}
+
+.center {
+    text-align: center;
+    font-weight: normal;
+}
+
+.homep {
+    font-style: italic;
+    font-size: 17px;
+}
+
+.videoCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.bold {
+    font-weight: bold;
+}
+
+.aboutmep {
+    font-style: italic;
+    font-size: 16px;
+}
